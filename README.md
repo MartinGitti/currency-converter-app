@@ -3,7 +3,7 @@ A React application that allows users to convert certain currencies. The app als
 <hr/>
 
 ## Demo of Page in action:
-<img src="demoView.MP4" alt="Demo view of web page">
+<img src="DemoView.MP4" alt="Demo view of web page">
 <hr/>
 
 ## Use of code:
